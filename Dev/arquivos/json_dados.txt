@@ -1,0 +1,1 @@
+{"nome": "Fabio Oliveira", "linguagem": "Python", "cidade": "Quebec/Otawa"}
